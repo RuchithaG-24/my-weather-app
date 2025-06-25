@@ -1,6 +1,6 @@
 // IMPORTANT: Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key.
 // You can get one for free from https://openweathermap.org/api
-const API_KEY = '4876c1e28e4cd42bc7ce87447490fbf2'; // !!! API KEY UPDATED !!!
+const API_KEY = 'd56ef8ac66cdec7812ba6d64fd0532b4'; // !!! API KEY UPDATED !!!
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 // Get DOM elements
